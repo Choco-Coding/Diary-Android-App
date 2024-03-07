@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="item_detail_title">Diary Details</string>
+    <string name="item_edit_title">일기 수정</string>
+    <string name="item_entry_title">일기 쓰기</string>
+    <string name="back_button">Back</string>
+    <string name="delete">삭제</string>
+    <string name="edit">수정</string>
+    <string name="share">공유</string>
+    <string name="attention">삭제</string>
+    <string name="delete_question">이 일기를 정말 삭제할까요?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save_action">저장</string>
+    <string name="no_item_description">첫 번째 일기를 작성해봐요.</string>
+    <string name="item_title_req">제목</string>
+    <string name="item_year_req">연</string>
+    <string name="item_month_req">월</string>
+    <string name="item_day_req">일</string>
+    <string name="item_contents_req">내용</string>
+    <string name="share_diary">Share Diary</string>
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="home">home</string>
+    <string name="list">list</string>
+    <string name="settings">settings</string>
+    <string name="greeting">오늘 하루는 어땠나요?\n일기로 기록해봐요.</string>
+    <string name="version">Version 1.0.0</string>
+</resources>
