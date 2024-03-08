@@ -34,7 +34,7 @@ class HomeViewModel(
                 initialValue = HomeUiState()
             )
 
-    var weatherUiState: WeatherUiState by mutableStateOf(WeatherUiState(2, 0, 0))
+    var weatherUiState: WeatherUiState by mutableStateOf(WeatherUiState(0, 0, 0))
         private set
 
     init {
