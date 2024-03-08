@@ -5,6 +5,7 @@ Compose를 이용하여 화면을 구성하였고, Room 라이브러리를 통�
 
 *SERVICE_KEY에 오픈 api 인증키를 작성해야 날씨 정보가 표시됩니다.
 
+
 ![1](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/faafe651-16c9-4964-831c-e07146997716)
 ![2](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/94633716-3c56-44b7-a455-dadc01d247c4)
 ![3](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/1c72fa6f-fbdf-4ad4-9ce0-ca65aa8a9af8)
