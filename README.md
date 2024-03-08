@@ -1,9 +1,9 @@
-# Diary Android App Project
+# Diary with Weaather Information Android App Project
 Kotlin을 기반으로 하여 안드로이드 앱을 제작하였습니다. 일상을 기록할 수 있는 다이어리 앱입니다. 홈 화면에서는 날씨와 날짜 정보가 표시됩니다.
 
 Compose를 이용하여 화면을 구성하였고, Room 라이브러리를 통해 데이터베이스를 구현하여 데이터를 저장합니다. Retrofit을 이용하여 기상청 오픈 api로부터 날씨 정보를 불러옵니다.
 
-*SERVICE_KEY에 자신의 오픈 api key를 작성해야 날씨 정보가 표시됩니다.
+*SERVICE_KEY에 오픈 api 인증키를 작성해야 날씨 정보가 표시됩니다.
 
 ***
 ## Result Screen
