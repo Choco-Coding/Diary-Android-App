@@ -5,6 +5,17 @@ Compose를 이용하여 화면을 구성하였고, Room 라이브러리를 통�
 
 *SERVICE_KEY에 오픈 api 인증키를 작성해야 날씨 정보가 표시됩니다.
 
+![1](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/faafe651-16c9-4964-831c-e07146997716)
+![2](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/94633716-3c56-44b7-a455-dadc01d247c4)
+![3](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/1c72fa6f-fbdf-4ad4-9ce0-ca65aa8a9af8)
+![4](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/5fbac133-1953-4784-92e0-69e195a913a6)
+![5](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/134ecf21-f078-43f9-b568-d1bbfdecd977)
+![6](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/033df092-c48d-4059-915f-de92353d2956)
+![7](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/98f4baf9-50eb-42e5-85bb-aeefb5a7e18d)
+![8](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/4b491d29-7992-4211-b3cd-72585074ffab)
+![9](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/932e871a-d307-4c96-a96f-3408fd1b7077)
+![10](https://github.com/Choco-Coding/Diary-with-Weather-Information-Android-App/assets/117694927/6e3bd8f7-1cb1-488b-b240-928b529a2eb3)
+
 ***
 ## Result Screen
 
