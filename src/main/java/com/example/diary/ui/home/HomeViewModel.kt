@@ -53,7 +53,7 @@ class HomeViewModel(
 
         //Weather information
         val call = ApiObject.retrofitService.getWeather(
-            10, 1, "XML", base_date, base_time, nx, ny
+            10, 1, "JSON", base_date, base_time, nx, ny
         )
         call.enqueue(object : retrofit2.Callback<WEATHER>{
             override fun onResponse(call: Call<WEATHER>, response: Response<WEATHER>) {
